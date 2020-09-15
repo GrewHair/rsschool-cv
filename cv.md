@@ -6,7 +6,7 @@ Barys Dzemidziuk
 
 ---
 
-### 2. Contact Info
+### 2. Contacts
 
 Email: [barysdzemidziuk@gmail.com](mailto:barysdzemidziuk@gmail.com)
 Mobile: [+375 (33) 613-22-36](tel:+375336132236)
