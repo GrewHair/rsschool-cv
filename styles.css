@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+title {
+    display: none;
+}
+
+.wrapper {
+    width: 800px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: lightgrey
+}
